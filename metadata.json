@@ -1,0 +1,6 @@
+{
+  "name": "Pengaduan Sarpras SMKN 3 Jember",
+  "description": "Sistem Informasi Pengaduan & Umpan Balik Sarana Prasarana Sekolah SMKN 3 Jember",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
